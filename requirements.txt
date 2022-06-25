@@ -1,0 +1,11 @@
+os
+sys
+json
+platform
+sc-compression
+requests
+colorama
+pylzham
+zstandard
+pillow
+loguru
