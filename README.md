@@ -3,3 +3,5 @@ bugs with pips write in cmd:
 pip install -r requirements
 
 Please read CREDITS.txt
+
+tools are in releases
