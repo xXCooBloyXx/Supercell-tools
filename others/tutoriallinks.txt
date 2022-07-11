@@ -1,6 +1,0 @@
-how to add animation to geo(addon by Daniil SV): https://youtu.be/jR5u66FoMVQ
-how to add animation to geo(old and bad, script by Molyan): https://youtu.be/UF4UhULbifY
-how to fixs scw-dae error:
-		Exception in thread "main" java.io.EOFException - https://youtu.be/XldWHjaFPV0
-		more soon
-
