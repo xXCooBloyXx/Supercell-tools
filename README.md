@@ -1,7 +1,3 @@
-idk if this exe need pip so when u has
-bugs with pips write in cmd:
-pip install -r requirements
-
 Please read CREDITS.txt
 
-tools are in releases
+tools and others are in releases
